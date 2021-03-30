@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **No-SQL**
 
-- 💬  Ask me about **PHP, AS3?**
+- 💬  Ask me about **PHP, JS?**
 
 - 📫  How to reach me: **contato@rigoni.dev / gustrigoni@gmail.com**
 
