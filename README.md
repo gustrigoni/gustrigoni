@@ -1,7 +1,7 @@
 ```zsh
 > gustrigoni
 ```
-<img align="left" style="border-radius:5px;" src="https://media4.giphy.com/media/l3ZrVw8NkxIly/giphy.gif?cid=790b76119674f0cb40f33f9fe06796bbcd15202afe2b77f3&rid=giphy.gif&ct=g" width="355" /> 
+<img align="left" style="border-radius:5px;" src="https://media4.giphy.com/media/l3ZrVw8NkxIly/giphy.gif?cid=790b76119674f0cb40f33f9fe06796bbcd15202afe2b77f3&rid=giphy.gif&ct=g" width="350" /> 
 
 ```csharp
 @gustrigoni
