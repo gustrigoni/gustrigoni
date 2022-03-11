@@ -8,10 +8,10 @@
 -------------------------
 Location: Tubarão/SC (Brazil)
 Pronouns: He/Him
-Frameworks: React, RNative, Node.js
 Languages: JavaScript, ActionScript, PHP
-Experience: Express, MariaDB, Sequelize, SCSS (SASS), Rest API
-Learning: No-SQL, Microservices, Cloud
+Frameworks: React, RNative, Node.js
+Experience: Express, MariaDB, Sequelize, SCSS (SASS), Rest API, NestJS, Prisma.io, TypeORM, Bull
+Learning: No-SQL, Microservices, Cloud, Keycloack
 Hobbies: Cooking, Gaming
 Discord: Faciem#9374
 ```
