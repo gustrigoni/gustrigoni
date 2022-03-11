@@ -1,7 +1,7 @@
 ```zsh
 > cd gustrigoni
 ```
-<img align="left" style="border-radius:5px;" src="https://media4.giphy.com/media/l3ZrVw8NkxIly/giphy.gif?cid=790b76119674f0cb40f33f9fe06796bbcd15202afe2b77f3&rid=giphy.gif&ct=g" width="347" /> 
+<img align="left" style="border-radius:5px;" src="https://media4.giphy.com/media/l3ZrVw8NkxIly/giphy.gif?cid=790b76119674f0cb40f33f9fe06796bbcd15202afe2b77f3&rid=giphy.gif&ct=g" width="380" /> 
 
 ```csharp
 @gustrigoni
@@ -10,7 +10,8 @@ Location: Tubarão/SC (Brazil)
 Pronouns: He/Him
 Languages: JavaScript, ActionScript, PHP
 Frameworks: React, RNative, Node.js
-Experience: Express, MariaDB, Sequelize, SCSS (SASS), Rest API, NestJS, Prisma.io, TypeORM, Bull
+Experiences: Express, MariaDB, Postgres, MySQL, SCSS (SASS)
+Experiences: Rest API, NestJS, Prisma.io, TypeORM, Bull Queues
 Learning: No-SQL, Microservices, Cloud, Keycloack
 Hobbies: Cooking, Gaming
 Discord: Faciem#9374
