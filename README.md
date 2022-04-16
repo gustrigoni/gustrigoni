@@ -10,7 +10,8 @@ Location: Tubarão/SC (Brazil)
 Pronouns: He/him
 Languages: JavaScript, ActionScript, PHP
 Frameworks: React, RNative, Node.js
-Learning: No-SQL, Microservices, Cloud, Keycloak, RabbitMQ
+Learning: No-SQL, Microservices, 
+Cloud, Keycloak, RabbitMQ
 Hobbies: Cooking and gaming
 Discord: Faciem#9374
 ```
