@@ -18,9 +18,10 @@ Discord: Faciem#9374
 ```csharp
 👨‍💻my experiences with coding
 -------------------------
-Rest API, Express, MariaDB, Postgres, MySQL, NestJS, Prisma.io,
-TypeORM, Bull Queues, I18n, ReactJS, React Native, SCSS, Flex-box
-and much more...
+Rest API, Express, MariaDB, Postgres, 
+MySQL, NestJS, Prisma.io, TypeORM,
+Bull Queues, I18n, SCSS, Flex-box,
+ReactJS, React Native, and much more...
 ```
 
 ![GustRigoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustrigoni&show_icons=true&theme=radical&hide=stars,prs,issues&hide_title=true&hide_rank=true&include_all_commits=true&count_private=true&bg_color=161b22&text_color=d2a8ff&hide_border=true)
