@@ -1,7 +1,8 @@
 ```zsh
 > cd gustrigoni
 ```
-<img align="left" style="border-radius:5px;margin-right:10px;" src="https://media4.giphy.com/media/l3ZrVw8NkxIly/giphy.gif?cid=790b76119674f0cb40f33f9fe06796bbcd15202afe2b77f3&rid=giphy.gif&ct=g" height="450" width="60" /> 
+
+<img align="left" style="border-radius:50%" src="https://media4.giphy.com/media/l3ZrVw8NkxIly/giphy.gif?cid=790b76119674f0cb40f33f9fe06796bbcd15202afe2b77f3&rid=giphy.gif&ct=g" height="500" width="560" />
 
 ```csharp
 🤳🏼@gustrigoni
