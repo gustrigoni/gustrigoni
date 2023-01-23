@@ -11,8 +11,8 @@ Location: Tubarão/SC (Brazil)
 Pronouns: He/him
 Languages: JavaScript, ActionScript, PHP
 Frameworks: React, RNative, Node.js
-Learning: No-SQL, Microservices, 
-Cloud, Keycloak, RabbitMQ
+Learning: No-SQL, Cloud,
+Keycloak, RabbitMQ
 Hobbies: Cooking and gaming
 Discord: Faciem#9374
 ```
@@ -20,7 +20,8 @@ Discord: Faciem#9374
 ```csharp
 👨‍💻my experiences with coding
 -------------------------
-Rest API, Express, MariaDB, Postgres, 
+Queues, Microservices, Rest API, 
+Express, MariaDB, Postgres, 
 MySQL, NestJS, Prisma.io, TypeORM,
 Bull Queues, I18n, SCSS, Flex-box,
 ReactJS, React Native, and much more...
