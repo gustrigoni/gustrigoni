@@ -1,34 +1,30 @@
 ```zsh
 > cd gustrigoni
 ```
+<!-- "Hero" Header -->
+<div align="center">
+  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
+  <br />
+  <br />
+  <br />
 
-<img align="left" style="border-radius:50%" src="https://media4.giphy.com/media/l3ZrVw8NkxIly/giphy.gif?cid=790b76119674f0cb40f33f9fe06796bbcd15202afe2b77f3&rid=giphy.gif&ct=g" height="500" width="480" />
-
-```csharp
-🤳🏼@gustrigoni
--------------------------
-Location: Tubarão/SC (Brazil)
-Pronouns: He/him
-Languages: JavaScript, ActionScript, PHP
-Frameworks: React, RNative, Node.js
-Learning: No-SQL, Cloud,
-Keycloak, RabbitMQ
-Hobbies: Cooking and gaming
-Discord: Faciem#9374
-```
-
-```csharp
-👨‍💻my experiences with coding
--------------------------
-Queues, Microservices, Rest API, 
-Express, MariaDB, Postgres, 
-MySQL, NestJS, Prisma.io, TypeORM,
-Bull Queues, I18n, SCSS, Flex-box,
-ReactJS, React Native, and much more...
-```
-
-![GustRigoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustrigoni&show_icons=true&theme=radical&hide=stars,prs,issues&hide_title=true&hide_rank=true&include_all_commits=true&count_private=true&bg_color=161b22&text_color=d2a8ff&hide_border=true)
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gustrigoni&label=Profile%20views&color=0e75b6&style=flat" alt="gustrigoni" /> </p>
+<div align="center">
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
+
+![Visitor Count](https://profile-counter.glitch.me/gustrigoni/count.svg)
+
+
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
+<!-- "margin-right: whatever;" -->
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
+
+</div>
 
